@@ -1,8 +1,8 @@
 # Data Engineer
 
 ## Education
-- M.S. | Information Technology | Arizona State University | Jan 2022 – Dec 2023
-- B.E  | Information science and Engineering| JSSATEB | Aug 2017 – Apr 2021 
+- M.S. | Information Technology | Arizona State University |  Dec 2023
+- B.E  | Information science    | JSSATEB,Blr,India        |  Apr 2021 
 
 ## Skills Summary
 
