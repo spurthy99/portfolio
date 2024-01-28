@@ -11,11 +11,11 @@
 
 
 ## Experience
-👩🏻‍💻 Migrated an application based on jqGrid and Select2 UI to DataTables and Fomantic UI for enhanced UX. 
-👾 Identified & fixed bugs introduced during the migration and development process leading to a more stable release.
-☎️ Developed a real-time contact management system gathering data from 30+ applications. 
-📀 Optimized server storage by eliminating unused code in 50+ apps (used by 20,000+ users).
-📈 Achieved a surge in user engagement (Google Analytics) through consistent content updates and marketing .
+- 👩🏻‍💻 Migrated an application based on jqGrid and Select2 UI to DataTables and Fomantic UI for enhanced UX.
+- 👾 Identified & fixed bugs introduced during the migration and development process leading to a more stable release.
+- ☎️ Developed a real-time contact management system gathering data from 30+ applications.
+- 📀 Optimized server storage by eliminating unused code in 50+ apps (used by 20,000+ users).
+- 📈 Achieved a surge in user engagement (Google Analytics) through consistent content updates and marketing .
 
 ## Academic Projects
 
