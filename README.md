@@ -1,8 +1,8 @@
 # Data Engineer
 
 ## Education
-- M.S. | Information Technology | Arizona State University |  Dec 2023
-- B.E  | Information science    | JSSATEB,Blr,India        |  Apr 2021 
+- M.S. | Information Technology | Arizona State University |  Dec '23
+- B.E  | Information science    | JSSATEB,Blr,India        |  Apr '21 
 
 ## Skills Summary
 - Languages: Python, SQL, C, C++, JavaScript, HTML, CSS.
