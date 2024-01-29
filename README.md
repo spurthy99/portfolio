@@ -1,14 +1,21 @@
+## About Me
+<hr>
+
 ## Education
+<hr>
 - M.S.|Information Technology| Arizona State University|  Dec '23
 - B.E |Information science| JSSATEB,Blr,India  |  Apr '21 
 
 ## Skills Summary
+<hr>
 - Languages: Python, SQL, C, C++, JavaScript, HTML, CSS.
 - Tools/Technologies/Frameworks: Tableau, Git.
 - Database: MongoDB(NoSQL), MySQL, MS SQL Server.
 
 
 ## Experience
+<hr>
+
 **WebMaster @ ASU (_Mar 2022 - Dec 2023_)**
 - 👩🏻‍💻 Migrated an application based on jqGrid and Select2 UI to DataTables and Fomantic UI for enhanced UX.
 - 👾 Identified & fixed bugs introduced during the migration and development process leading to a more stable release.
@@ -46,5 +53,7 @@ Tools: Tableau, Kaggle Data set, Mural, GitHub.
   (http://www.mecs-press.org/ijieeb/ijieeb-v13-n3/v13n3-3.html, https://youtube.com/@spurthym).
 
 ## Contact Information
+<hr>
+
 - GitHub:https://github.com/spurthy99
 - email:spurthymutturaj@gmail.com
