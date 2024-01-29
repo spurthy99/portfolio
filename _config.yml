@@ -1,15 +1,14 @@
 title:     Spurthy M
 logo: assets/img.jpg
 description: > # your text below (remove <br> elements if you don't need line breaks)
- USC-2020|Data Science|Computer Vision|DSP 
-  <br><br>
+ 
   Actively looking for Full-Time Opportunities.
-  <br><br>
+  <br>
  <a href="https://www.linkedin.com/in/spurthym/">LinkedIn</a> 
-   <br><br>
+   <br>
   
   <a href="https://github.com/spurthy99">Github</a> 
-   <br><br>
+   <br>
   <a "https://github.com/spurthy99/Resume/blob/main/Spurthy_Resume_DE.pdf">Resume</a> 
-show_downloads: true
+  <br>  <br>
 theme: jekyll-theme-minimal
