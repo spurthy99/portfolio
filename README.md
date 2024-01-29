@@ -17,7 +17,7 @@
 - 📈 Achieved a surge in user engagement (Google Analytics) through consistent content updates and marketing .
 
 ## Academic Projects
-
+<hr>
 
 **Cloud Infrastructure Design and Deployment using AWS**                                                                    May 2023
 - 	Comprehensive knowledge of AWS resources through 10+ projects.
