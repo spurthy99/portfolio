@@ -11,5 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/spurthy99">Github</a> 
    <br><br>
   <a "https://github.com/spurthy99/Resume/blob/main/Spurthy_Resume_DE.pdf">Resume</a> 
-show_downloads: true
+
 theme: jekyll-theme-minimal
