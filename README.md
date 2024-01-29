@@ -15,7 +15,7 @@ I'm on the lookout for Data Engineering/Analytics roles because, honestly, my ac
 ## Skills Summary
 <hr>
 - Languages: Python, SQL, C, C++, JavaScript, HTML, CSS.
-- Tools/Technologies/Frameworks: Tableau, Git.
+- Tools/Technologies/Frameworks: Tableau, Excel, Spark, ETL, GitHub, Git, Data Bricks, Pandas, Bokeh.
 - Database: MongoDB(NoSQL), MySQL, MS SQL Server.
 
 
@@ -30,7 +30,7 @@ I'm on the lookout for Data Engineering/Analytics roles because, honestly, my ac
 - 📈 Achieved a surge in user engagement (Google Analytics) through consistent content updates and marketing .
 
 **Programmer @ UXL Technologies (_Jun 2020 - Oct 2020_)**
-- 👩🏻‍💻Instructed a group of 20 high school students at a coding academy, elucidating object-oriented programming (OOPS) concepts and programming paradigms using Python and Java programs.
+- 👩🏻‍💻 Instructed a group of 20 high school students at a coding academy, elucidating object-oriented programming (OOPS) concepts and programming paradigms using Python and Java programs.
 ## Academic Projects
 <hr>
 
