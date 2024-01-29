@@ -19,10 +19,33 @@
 - 📈 Achieved a surge in user engagement (Google Analytics) through consistent content updates and marketing .
 
 ## Academic Projects
-**Vaccine Management System Apr 2022**
-- Designed a schema using ORM and ER diagrams to define project entities and requirements, optimized data organization and accelerated development timeline. Formulated 5 queries  for demographic analysis of vaccination and infections statistics.
-- Developed a relational database system using SQL on SQL Server Management Studio to automatically allocate a vaccine to an individual based on age using 2 triggers, 2 stored procedures, and 1 user-defined functions.
 
+
+**Cloud Infrastructure Design and Deployment using AWS**                                                                    May 2023
+- 	Comprehensive knowledge of AWS resources through 10+ projects.
+- 	Focused on storage solutions, servers, virtual networking (VPCs & subnets) and security best practices.
+Tools: AWS  CLI,  EC2,  S3,  RDS,  AWS  Lambda,  Cloud Watch,  Cloud Formation, IAM.
+
+**Vaccine Management System**                                                                                                                                       May  2022
+- 	Developed a relational database system to allocate vaccines based on 3 age groups.
+- 	Formulated 10+ queries, triggers, stored procedures, user-defined functions to analyze statistics.
+Tools: SQL, SQL Server Management Studio, Relational Database, ER diagrams.  
+
+**Visualizations for Cardiovascular Health**                                                                                                                      Apr  2022
+- 	Created 10 Tableau visualizations, i.e Line & Bar charts, and Scatter plots, to reveal key insights into heart disease trends.
+- 	Designed an interactive dashboard enabling users to filter data based on age categories, sleep time, physical activity etc.
+Tools: Tableau, Kaggle Data set, Mural, GitHub.
+
+**ML Pipeline in Spark ML** 										           Mar  2022
+- 	Implemented a Spark ML pipeline to perform model training conduct, cross-validation, optimizing decision tree classifiers with varied parameters for superior results.
+- 	Explored varying impurity measures and different max depth values, observing their impact on test errors.
+Tools: Tableau, Kaggle Data set, Mural, GitHub.
+
+**Restaurant Recommendation System**                                                                                                                            Jun 2021
+- 	Built a personalized engine using NLP & Gensim to suggest restaurants to users, utilizing yelp dataset of 500+ profiles. 
+- 	Used Cosine Similarity to match user profile against all the business profiles, providing a score between 0 to1.
+- 	Published international research paper (at IJIEEB) exploring 4 to 5 different recommendation techniques.
+  (http://www.mecs-press.org/ijieeb/ijieeb-v13-n3/v13n3-3.html, https://youtube.com/@spurthym).
 
 ## Contact Information
 - GitHub:https://github.com/spurthy99
