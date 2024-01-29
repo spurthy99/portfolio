@@ -1,14 +1,16 @@
 ## About Me 👩🏻‍🦱
 <hr>
-I worked as a software developer (student worker) for about two years, quietly pulling the strings behind the scenes. In simple terms Backend/Software Developer. I have practical experience working on academic projects involving AWS, NLP, databases, front-end and backend development tools and technologies. Take a peek into the following sections to uncover the origins of my skills. Now, I've set my sights on database roles because, hey, I've taken some serious courses like Data Visualization, Big Data Analytics, and Advanced DBMS – call it the academic survival kit! 💻
+I worked as a software developer (student worker) for about two years, quietly pulling the strings behind the scenes. In simple terms Backend/Software Developer. I have practical experience working on academic projects involving AWS, NLP, databases, front-end and backend development tools and technologies. Take a peek into the following sections to uncover the origins of my skills. 
+
+Now, I've set my sights on database roles because, hey, I've taken some serious courses like Data Visualization, Big Data Analytics, and Advanced DBMS – call it the academic survival kit! 💻
 
 I'm on the lookout for Data Engineering/Analytics roles because, honestly, my academic adventures have turned me into a data enthusiast. Give me a shot, and I'll show you what I've got.💫
 
 
 ## Education
 <hr>
-- Master's in Information Technology | Arizona State University|  Dec'23
-- Bachelor's in Information science  | JSSATEB,India           |  Apr'21 
+- M.S | Information Technology | Arizona State University|  Dec'23
+- B.E | Information science    | JSSATEB,India           |  Apr'21 
 
 ## Skills Summary
 <hr>
