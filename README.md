@@ -1,6 +1,6 @@
 ## Education
-- M.S. | Information Technology | Arizona State University |  Dec '23
-- B.E  | Information science    | JSSATEB,Blr,India        |  Apr '21 
+- M.S.|Information Technology| Arizona State University|  Dec '23
+- B.E |Information science| JSSATEB,Blr,India  |  Apr '21 
 
 ## Skills Summary
 - Languages: Python, SQL, C, C++, JavaScript, HTML, CSS.
