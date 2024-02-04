@@ -31,6 +31,7 @@ I'm on the lookout for Data Engineering/Analytics roles because, honestly, my ac
 
 **Programmer @ UXL Technologies (_Jun 2020 - Oct 2020_)**
 - 👩🏻‍💻 Instructed a group of 20 high school students at a coding academy, elucidating object-oriented programming (OOPS) concepts and programming paradigms using Python and Java programs.
+
 ## Academic Projects
 <hr>
 
